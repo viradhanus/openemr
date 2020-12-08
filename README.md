@@ -37,7 +37,7 @@ Check out [API_README.md](API_README.md)
 
 Check out [DOCKER_README.md](DOCKER_README.md)
 
-### For Developers.
+### For Developers
 
 If using OpenEMR directly from the code repository, then the following commands will build OpenEMR (Node.js version 10.* or 12.* is required) :
 ```shell
